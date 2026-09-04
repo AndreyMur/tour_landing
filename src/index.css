@@ -16,8 +16,11 @@
   --color-coraldeep: #ef5a4b;
   --color-sand: #ffd9a3;
 
-  --font-display: "Unbounded", "Manrope", system-ui, sans-serif;
+  --font-display: "Jost", "Manrope", system-ui, sans-serif;
   --font-body: "Manrope", "Segoe UI", system-ui, sans-serif;
+
+  --font-weight-extrabold: 600;
+  --font-weight-black: 600;
 
   --animate-spin-slow: spin-slow 26s linear infinite;
   --animate-waveslide: waveslide 16s linear infinite;
